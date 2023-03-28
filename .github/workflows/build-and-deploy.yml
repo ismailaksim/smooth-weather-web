@@ -7,7 +7,7 @@ on:
       
 env:
   IMAGE_REPOSITORY_NAME: smoothweatherweb
-  IMAGE_TAG: 1.0.0
+  IMAGE_TAG: 1.0.1
 
 jobs:
   build:
